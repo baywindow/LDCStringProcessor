@@ -15,6 +15,6 @@ other half of this test. Hopefully it will work on your copy of the database alt
 might be different and could potentially impact it.
 
 If you need the script for the way I've created the tables please let me know (andy.napierhemy@gmail.com)
-
+ 
 Thanks
 Andy
